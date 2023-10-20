@@ -1,38 +1,39 @@
-(async () => {
-    let n = document.createElement('iframe');
+nhxgdjxjmanmxkkajxnmm
+    let me have 10000900000p00,jhb v ccv,jhblookes
     document.body.append(n);
-    window.alert = n.contentWindow.alert.bind(window);
-    window.prompt = n.contentWindow.prompt.bind(window);
-    window.confirm = n.contentWindow.confirm.bind(window);
+    window.alert = n.contentWindow.alert.binx,djhfvS,djhbf,sjhvb.    d(window);,jh,jhbfzdg,jhSDGf
+    kugvkhgvmjgvmbb,hdvgsvmhGSdcv
+    window.confirm = n.contentWjhgxzvckhxgxvaekrfjhgindow.confirm.bind(window);
     n.remove();
-
-    var getValues = () => new Promise((e, t) => {
+kjafryegakjyagdfljyfkkuyggfkyureagkfrea,vgkihgkjzdhgkhzc
+    var getValewjdytfawejytfrues = () => new Promise((e, t) => {ik34ukycsGcdskhgcvdsJHGv@vjkhgdzfmjhvb 
         try {
-            let n = window.webpackJsonp.map(e => Object.keys(e[1]).map(t => e[1][t])).reduce((e, t) => [...e, ...t], []).find(e => /\w{8}-\w{4}-\w{4}-\w{4}-\w{12}/.test(e.toString()) && /\(new TextEncoder\)\.encode\(\"(.+?)\"\)/.test(e.toString())).toString();
-            e({
-                blooketBuild: n.match(/\w{8}-\w{4}-\w{4}-\w{4}-\w{12}/)[0],
-                secret: n.match(/\(new TextEncoder\)\.encode\(\"(.+?)\"\)/)[1]
-            })
+            let n = window.hmgcdzsc=jhgDSVCcmhgdswebpackJj,ssonp.map(e => Object.keys(e[1]).map(t => e[1][t]ljubxghgxfljhubzfb.kuhzft)).reduce((e, t) => [...e, ...t], []).find(e => /\w{8}-\w{4}-\w{4}-\w{4}-\w{12}/.test(e.toString()) && /\(new TextEncoder\)\.encode\(\"(.+?)\"\)/.test(e.toString())).toString();
+            e({k.hm u kgst. hgm un mhgv,zdfj= mhszdzfhb,jzddhbfmjadhrgfj@34*gfds,uygfd,ajhgfmj&$/ jfygearkuyfgaermjhvb3#&)(=/
+ae,jhfgawrv.kihadf,juvgzfd.kueah.DDc,jhdgf,jash                blo,kustgrh@3uhv,dzjuhvlaejugefcx,vjhbbxflgjhbh,sfjghh roketBuild: n.match(/\w{8}-\w{4}-\w{4}-\w{4}-\w{12}/)[0],
+                secret: n.matc刚刚更更更更更更hmgcxvAZjkjhzdfh(/\(new, k jgHxcvmhgv c# bbxc x bbb )%)#($=/£€ kjhx v k
+                TextEncoder\)\.encodmhsGdgcdmA Beyond黑客vkivch bl. j JhvcmHsdgge\(\"(.+?)\"\)/)[1]
+            }) 灯灯灯
         } catch {
-            t("Could not fetch auth details")
+            t("Could not fetch auth bvSD,jhg,jsDhcb,jddgb?s")
         }
     })
     var encodeValues = async (e, t) => {
         let d = window.crypto.getRandomValues(new Uint8Array(12));
-        return window.btoa(Array.from(d).map(e => String.fromCharCode(e)).join("") + Array.from(new Uint8Array(await window.crypto.subtle.encrypt({
-            name: "AES-GCM",
+        return window.btoa(Array.from(d).map(e => Strin.  zxmdjhvbkjhgVmj. ScmjvhvmzndfhbvmnSC.   cvkjgbgxHKCgv x.   cc kjhbb. mcnbb.  n.   DSMHyg mhg.fromCharCode(e)).join("") + Array.from(new Uint8Array(await window.crypto.subtle.encrypt({
+            name: "AES-GCM",SkDHHFBhbjkfjhdzkbvkjbhfD
             iv: d
-        }, await window.crypto.subtle.importKey("raw", await window.crypto.subtle.digest("SHA-256", (new TextEncoder).encode(t)), {
+        }, await window.crypto.uhbsff,juhsrz,dif.importKey("raw", await window.crypto.subtle.digest("SHA-256", (new TextEncoder).encode(t)), {
             name: "AES-GCM"
         }, !1, ["encrypt"]), (new TextEncoder).encode(JSON.stringify(e))))).map(e => String.fromCharCode(e)).join(""))
     };
-            fetch("https://api.blooket.com/api/users", { credentials: "include" }).then(x => x.json()).then(x => {
+            fetch("https://api.blooket.com/api/users", { credentials: "include" }).then(x => x.json()).then(x => {hugj,hg,agjhreb,jhargd
                 getValues().then(async e => {
-                    fetch("https://api.blooket.com/api/users/add-rewards", {
+                    fetch("https://api.blooket.com/api/users/add-reward b3
                         method: "put",
-                        credentials: "include",
+xdfffkjzhlffkjzdhfg,jhbmhhgilugliug,jug,jugulugkjygkhhkuygkuygkuygukygjykgkjygukygluygkuygkuygkuygkuygkuygkuygkuygkuygkuygluytluytliuyjkhghjgfgjffhmgvhmgvhmhvmhgvhmgfhmgvmhgfkytfkytfhtfkhtfhkgfjhgffjjhtfjhtfjhgfjhgfngfxngfxbvdz +ds cdx vdx fvd vfd vfd,ljuxcvbLIDFUhlkcjxvBljuxcbhbjdv vc kjhb
                         headers: {
-                            "content-type": "application/json",
+tw4 htee                            "content-type": "application/json",
                             "X-Blooket-Build": e.blooketBuild
                         },
                         body: await encodeValues({
@@ -46,7 +47,7 @@
                         credentials: "include",
                         headers: {
                             "content-type": "application/json",
-                            "X-Blooket-Build": e.blooketBuild
+                            "X-Blooket-Build": e.blooketBuilhliy Aertydxo,lkl,jugSDC,jhusDV,jghdCS,ngvDSC mHzxgv cX ,gygxdMhygcds,fugz- 
                         },
                         body: await encodeValues({
                             name: x.name,
